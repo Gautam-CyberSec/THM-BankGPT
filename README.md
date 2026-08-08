@@ -1,5 +1,7 @@
 # THM-BankGPT
 
+[![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue?style=flat-square)](LICENSE)
+
 
 ### BankGPT Write-Up
 
@@ -17,13 +19,21 @@ Answer the questions below
 
 What is the secret key?
 
-<img width="719" height="372" alt="Image" src="https://github.com/Gautam-CyberSec/THM-BankGPT/blob/main/Screenshots/image_2025-12-04_23-27-40.png" />
+<img width="719" height="372" alt="Image" src="Screenshots/image_2025-12-04_23-27-40.png" />
 
 
 Upon inquiring about the staff working there, I learned that they have a wide range of employees across different designations.
 
-<img width="719" height="372" alt="Image" src="https://github.com/Gautam-CyberSec/THM-BankGPT/blob/main/Screenshots/image_2025-12-04_23-28-27.png" />
+<img width="719" height="372" alt="Image" src="Screenshots/image_2025-12-04_23-28-27.png" />
 
 I then asked for more details about the employees and their designations, but the AI informed me that it couldn't provide that information due to guidelines. So, I decided to check the guidelines, and that’s when I got the answer.
 
-<img width="719" height="372" alt="Image" src="https://github.com/Gautam-CyberSec/THM-BankGPT/blob/main/Screenshots/image_2025-12-04_23-29-16.png" />
+<img width="719" height="372" alt="Image" src="Screenshots/image_2025-12-04_23-29-16.png" />
+
+---
+
+## Contact
+
+**Gautam** — Cloud &amp; Backend Engineer
+
+[Portfolio](https://Gautam-cloud.com) · [LinkedIn](https://linkedin.com/in/gautam-cybersec) · [gautamdem@gmail.com](mailto:gautamdem@gmail.com)
